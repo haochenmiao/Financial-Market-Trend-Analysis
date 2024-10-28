@@ -32,6 +32,10 @@ Google
 
 `Data Visualization`: Comprehensive visualizations of daily returns for each company, providing insights into their performance over time.
 
+## Screenshots
+![Dashboard Screenshot1](images/closing_price_prediction.png)
+![Dashboard Screenshot2](images/stock_price_prediction.png)
+
 ### Libraries Used
 * Data Handling and Statistical Analysis:
   * pandas
